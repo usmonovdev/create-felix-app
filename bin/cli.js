@@ -45,11 +45,11 @@ async function init() {
     let templateFolder;
     switch (framework) {
       case "1":
-        templateFolder = "default"; // Next.js template
+        templateFolder = "nextjs"; // Next.js template
         console.log("\nNext.js template tanladingiz");
         break;
       case "2":
-        templateFolder = "react"; // React template
+        templateFolder = "reactjs"; // React template
         console.log("\nReact.js template tanladingiz");
         break;
       default:
