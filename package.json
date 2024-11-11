@@ -1,10 +1,10 @@
 {
-  "name": "create-felix-front",
-  "version": "1.0.5",
+  "name": "create-felix-app",
+  "version": "0.0.1",
   "description": "React va Next.js loyihalarini tez yaratish uchun CLI tool. Zamonaviy template, best practices va to'liq customization imkoniyatlari bilan.",
   "main": "bin/cli.js",
   "bin": {
-    "create-felix-front": "./bin/cli.js"
+    "create-felix-app": "./bin/cli.js"
   },
   "keywords": [
     "react",
@@ -22,10 +22,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/usmonovdev/create-felix-front.git"
+    "url": "git+https://github.com/usmonovdev/create-felix-app.git"
   },
   "bugs": {
-    "url": "https://github.com/usmonovdev/create-felix-front/issues"
+    "url": "https://github.com/usmonovdev/create-felix-app/issues"
   },
-  "homepage": "https://github.com/usmonovdev/create-felix-front#readme"
+  "homepage": "https://github.com/usmonovdev/create-felix-app#readme"
 }

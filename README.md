@@ -5,10 +5,10 @@ Oddiy va tez React va Next.js loyihalarini yaratish uchun CLI tool.
 ## O'rnatish
 
 ```bash
-npx create-felix-front my-app
+npx create-felix-app my-app
 # yoki
-npm install -g create-felix-front
-create-felix-front my-app
+npm install -g create-felix-app
+create-felix-app my-app
 ```
 
 ## Xususiyatlari
@@ -24,7 +24,7 @@ create-felix-front my-app
 
 1. CLI ni ishga tushiring:
 ```bash
-create-felix-front my-app
+create-felix-app my-app
 ```
 
 2. Framework tanlang:
@@ -109,7 +109,7 @@ MIT © [Usmonov Azizbek]
 
 ## FAQ
 
-**S: Nima uchun create-felix-front?**
+**S: Nima uchun create-felix-app?**
 J: Oddiy va tez loyiha yaratish uchun. Har safar bir xil strukturani qayta yaratmaslik uchun.
 
 **S: Template qanday sozlanadi?**
@@ -120,7 +120,7 @@ J: Ha. TypeScript versiyasi mavjud.
 
 ## Yordam
 
-Savollar yoki muammolar bo'lsa [Issues](https://github.com/usmonovdev/create-felix-front/issues) bo'limida muhokama qilishingiz mumkin.
+Savollar yoki muammolar bo'lsa [Issues](https://github.com/usmonovdev/create-felix-app/issues) bo'limida muhokama qilishingiz mumkin.
 
 ## To'g'ri Kelishi
 

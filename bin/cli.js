@@ -25,7 +25,7 @@ const projectName = process.argv[2];
 
 if (!projectName) {
   log.error('Iltimos, loyiha nomini kiriting');
-  log.info('Misol: npx create-felix-front my-app');
+  log.info('Misol: npx create-felix-app my-app');
   process.exit(1);
 }
 
