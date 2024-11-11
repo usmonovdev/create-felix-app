@@ -1,13 +1,31 @@
 {
   "name": "create-felix-front",
-  "version": "1.0.3",
-  "bin": "./bin/cli.js",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "1.0.5",
+  "description": "React va Next.js loyihalarini tez yaratish uchun CLI tool. Zamonaviy template, best practices va to'liq customization imkoniyatlari bilan.",
+  "main": "bin/cli.js",
+  "bin": {
+    "create-felix-front": "./bin/cli.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "react",
+    "nextjs",
+    "template",
+    "boilerplate",
+    "starter",
+    "create-app",
+    "cli",
+    "react-template",
+    "nextjs-template",
+    "scaffold"
+  ],
+  "author": "Usmonov Azizbek <usmonovazizbek15@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmonovdev/create-felix-front.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usmonovdev/create-felix-front/issues"
+  },
+  "homepage": "https://github.com/usmonovdev/create-felix-front#readme"
 }
