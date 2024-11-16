@@ -1,6 +1,6 @@
 {
   "name": "create-felix-app",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "React va Next.js loyihalarini tez yaratish uchun CLI tool. Zamonaviy template, best practices va to'liq customization imkoniyatlari bilan.",
   "main": "bin/cli.js",
   "bin": {
